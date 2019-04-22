@@ -5,9 +5,11 @@ In this project, behaviour and interactions between different types of agents an
 2. Unzip the file and Open project 'UnitySDK' on Unity.
 3. Follow the instructions in the file [**DAI&AI Final project.pdf**](https://github.com/R-Qu/Reinforcement-Learning-with-Unity/blob/master/DAI%26AI_Final_Project.pdf)
 ### Reinforcement Learning
+![RL](https://github.com/R-Qu/Intelligent-Salesman-in-Unity/blob/master/Images/ReinforcementLearning.jpg)  
+
+
 It would be really interesting to let agents learn and improve over time. Avoiding other types of agents if they‘ve had bad experience with them before.  
 * [Beginner tutorial](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419) to reinforcement learning.  
 * More in-depth paper [for further reading](https://skymind.ai/wiki/deep-reinforcement-learning)  
+* YouTube: Unity Machine Learning Agents [**ML-Agents SDK Tutorial**](https://www.youtube.com/watch?v=32wtJZ3yRfw&list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX) 
 
-![RL](https://github.com/R-Qu/Intelligent-Salesman-in-Unity/blob/master/Images/ReinforcementLearning.jpg)  
-#### YouTube: Unity Machine Learning Agents [ML-Agents SDK Tutorial](https://www.youtube.com/watch?v=32wtJZ3yRfw&list=PLX2vGYjWbI0R08eWQkO7nQkGiicHAX7IX) 
